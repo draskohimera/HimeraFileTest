@@ -1,0 +1,6 @@
+Ovo je file u kome dodajemo recenicu:
+
+{Ime i prezime} je ovo dodao!
+
+
+Drasko Simic je ovo dodao.
